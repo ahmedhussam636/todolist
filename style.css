@@ -1,9 +1,16 @@
 
 
-*{
+body{
     color: white !important;
+    background-image: linear-gradient( #BBD2C5, #536976);
 }
 
 input{
     color: black !important;
+
 }
+
+td{
+    color: white;
+}
+
